@@ -1,0 +1,2 @@
+IMAPClient==2.0.0
+slacker==0.9.65

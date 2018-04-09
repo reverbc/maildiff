@@ -1,0 +1,19 @@
+{
+    "SLACK_TOKEN": "Slack_App_OAuth_Access_Token",
+    "TIMEOUT": 5,
+    "CREDENTIALS": {
+        "Put_User_Name_Here": {
+            "gmail": {
+                "username": "",
+                "password": "",
+                "folders": []
+            },
+            "icloud": {
+                "username": "",
+                "password": "",
+                "orphan": "",
+                "archive": "Archive"
+            }
+        }
+    }
+}

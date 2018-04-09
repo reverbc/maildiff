@@ -1,0 +1,7 @@
+*.zip
+maildiff/
+config.json
+.DS_Store
+__pycache__/
+.vscode/
+venv/
